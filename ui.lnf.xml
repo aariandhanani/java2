@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Super Smash 4.1" />
+    <option name="FONT_FACE" value="Arial" />
+    <option name="FONT_SCALE" value="1.0" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
